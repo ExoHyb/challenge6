@@ -1,0 +1,49 @@
+#menu {
+	list-style-type: none;
+	background-color: #54ACE7;
+	height: 3.75em;
+}
+
+#menu li {
+	display: inline-block;
+	line-height: 3.75em;
+	padding: 0 1.25em;
+}
+
+#menu a {
+	color: white;
+}
+
+#menu a:hover {
+	text-decoration: none;
+}
+
+.background-blue {
+	background-image: url("../img/header.png");
+}
+
+.background-white {
+	background-image: url("../img/fond.png");
+}
+
+.background-grey {
+	background-image: url("../img/fond-article.png");
+}
+
+h1 {
+	color: white;
+}
+
+.img-border {
+	background-image: url("../img/fond.png");
+	padding: 2em;
+	margin-bottom: 3em;
+}
+
+.img-margin {
+	margin: 1em;
+}
+
+#sidebar2 li {
+	list-style-image: url('../img/fleche.png');
+}
