@@ -47,3 +47,28 @@ h1 {
 #sidebar2 li {
 	list-style-image: url('../img/fleche.png');
 }
+
+.lien-button {
+	background-color: #FF2900;
+	border-radius: 5px;
+	padding: 0.5em 1.5em;
+	color: white;
+	text-decoration: none;
+}
+
+.lien-button:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.sizetitre {
+	font-size: 1.3em;
+}
+
+.mep-bas {
+	font-size: 0.8em;
+}
+
+.mep-bas > h4 {
+	font-size: 1.3em;
+}
